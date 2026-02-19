@@ -1,0 +1,56 @@
+html{
+    padding: 100px;
+    margin: 50px;
+    border: 5px solid black;
+}
+.CV{
+    color: white;
+    text-decoration: none;
+    background-color: cornflowerblue;
+    border-radius: 15px;
+    padding: 10px;
+}
+.CV:hover{
+    color: white;
+    text-decoration: none;
+    background-color: rgb(58, 102, 182);
+    border-radius: 15px;
+    padding: 10px;
+}
+iframe{
+    overflow: auto;
+    height: 500px;
+}
+#secciones{
+    display: flex;
+}
+nav{
+    width: -webkit-fill-available;
+}
+#nav {
+    height: 30px;
+    width: -webkit-fill-available;
+    background-color: #1f2937;
+    border-radius: 15px;
+}
+#menu-nav {
+    list-style: none;
+    line-height: 30px;
+    text-align: center;
+}
+li.elemMenu {
+    display: inline;
+    margin-right: 32px;
+}
+ul li a:hover{
+    background-color: rgb(41, 40, 40);
+}
+#Habilidades{
+    display: flex;
+}
+.skills{
+    text-align: center;
+}
+figure{
+    margin-left: 100px;
+}
