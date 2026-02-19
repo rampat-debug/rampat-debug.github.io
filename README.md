@@ -1,6 +1,4 @@
-# rampat-debug.github.io
-En proceso
-![HTML](https://img.shields.io/badge/HTML-5-orange)
+# Hola 👋: , soy un estudiante de primer año en desarrollo web
 ## ¿Quieres saber mas de mi?
 ```java
 import java.util.ArrayList;
