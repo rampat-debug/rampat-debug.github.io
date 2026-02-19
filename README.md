@@ -1,7 +1,7 @@
 # rampat-debug.github.io
 En proceso
 ![HTML](https://img.shields.io/badge/HTML-5-orange)
-## Sobre mi
+## ¿Quieres saber mas de mi?
 ```java
 import java.util.ArrayList;
 public class App {
