@@ -4,9 +4,9 @@
 import java.util.ArrayList;
 public class App {
   public static void main(String[] args) throws Exception {
-  Skills scripts = new Skills ("Batch", "PoweShell", "Bash");
-  Skills lengaujes = new SKills ("HTML", "CSS", "Java");
-  ArrayList<Skills> yo = new ArrayList<>();
+  Aprendiendo scripts = new Skills ("Batch", "PoweShell", "Bash");
+  Aprendiendo lengaujes = new SKills ("HTML", "CSS", "Java");
+  ArrayList<Aprendiendo> yo = new ArrayList<>();
   yo.add(scripts);
   yo.add(lenguajes);
   }
