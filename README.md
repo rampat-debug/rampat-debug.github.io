@@ -1,5 +1,5 @@
 # Hola 👋 , soy Argie un estudiante de primer año en desarrollo web
-**¿Quieres saber mas de mi?**
+**¿Quieres saber más de mi?**
 ```java
 import java.util.ArrayList;
 public class App {
